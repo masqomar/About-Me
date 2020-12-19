@@ -1,2 +1,1 @@
-# About-Me
-This is what I am
+Hello Friend, I am Qomar. Nice to meet you
